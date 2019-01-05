@@ -30,7 +30,7 @@ Release Date: 2019-01-07
 
 ###  R in Academia
 
-
++ [Purr yourself into a math genius](http://staff.math.su.se/hoehle/blog/2019/01/04/mathgenius.html)
 
 ###  Resources
 
